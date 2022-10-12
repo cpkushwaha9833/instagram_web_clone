@@ -78,4 +78,20 @@ If you have followed all the steps, especially step no. 3 and using Chrome brows
 # Copyright claims
 Many images used in the project belong to their respective creators/authors. No claim by me & those who use this project!!
 
+#Output
+![ycsocial ss 7](https://user-images.githubusercontent.com/101788525/195294013-2f021484-d9f9-4a6a-be27-71d78995fe3c.png)
+![ycsocial ss 8](https://user-images.githubusercontent.com/101788525/195294021-8939e016-bf8e-4044-8759-d9926dbb8ca4.png)
+![ycsocial ss 9](https://user-images.githubusercontent.com/101788525/195294027-ba9077fe-638c-4f9c-86ea-443eba773eec.png)
+![ycsocial ss 10](https://user-images.githubusercontent.com/101788525/195294039-6a659856-3ce5-4680-8757-81deaa73199e.png)
+![ycsocial ss 1](https://user-images.githubusercontent.com/101788525/195294042-43900ae4-c2ea-42a2-9f23-c9cd849d1e30.png)
+![ycsocial ss 2](https://user-images.githubusercontent.com/101788525/195294047-a4f9fd2f-a259-485d-be60-82c852a701e9.png)
+![ycsocial ss 3](https://user-images.githubusercontent.com/101788525/195294054-1597b3be-886b-4dc9-b865-6d1b85aa7771.png)
+![ycsocial ss 4](https://user-images.githubusercontent.com/101788525/195294072-78d14364-afec-421d-9dd6-f17463754b09.png)
+![ycsocial ss 5](https://user-images.githubusercontent.com/101788525/195294076-8bc72010-650c-4ad4-b9e8-224f0374f704.png)
+![ycsocial ss 6](https://user-images.githubusercontent.com/101788525/195294082-e31076ff-81a8-42c1-8a7e-3438ba4aafbc.png)
+![WhatsApp Image 2022-08-06 at 1 50 47 PM](https://user-images.githubusercontent.com/101788525/195294436-151579be-a3ef-4020-a7bf-e2c0da53b345.jpeg)
+![WhatsApp Image 2022-08-06 at 1 50 46 PM](https://user-images.githubusercontent.com/101788525/195294448-deb49d54-8708-4d32-9bc3-88214d5592ca.jpeg)
+
+
+
 **Thanks for reading**
